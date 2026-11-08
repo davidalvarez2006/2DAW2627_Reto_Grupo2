@@ -6,7 +6,7 @@ Todo el trabajo del proyecto se organizará y gestionará mediante GitHub, utili
 
 ### 1.1. Gestión de tareas mediante Issues
 - Cada tarea del proyecto deberá tener su correspondiente Issue en GitHub.
-- Los Issues seguirán la nomenclatura establecida: `[ASIGNATURA]-[NUMERO]-[NombreSinEspacios]`.
+- Los Issues seguirán la nomenclatura establecida: `[ASIGNATURA]-[NÚMERO]-[NombreSinEspacios]`.
 - Se utilizarán dos cifras para numerar las tareas y códigos de asignatura en mayúsculas.
 - Cada Issue deberá incluir una descripción clara del trabajo que se debe realizar, las tareas principales y el entregable correspondiente.
 
@@ -68,7 +68,7 @@ Se utilizarán los siguientes tipos:
 
 ## 4. Revisión de código
 
-Las revisiones deben ser aprobadas por al menos otro integrante. También, se debe comprobar que cumple con los requisitos del profesorado y con este documento, en el que se especifican las reglas de equipo.
+Las revisiones deben ser aprobadas por al menos otro integrante. También se debe comprobar que cumple con los requisitos del profesorado y con este documento, en el que se especifican las reglas de equipo.
 
 ## 5. Organización del código y estructura del repositorio
 
